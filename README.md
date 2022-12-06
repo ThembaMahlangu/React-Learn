@@ -1,2 +1,7 @@
 # React-Learn
-In this repository I learn and use the project as reference for coding using the React Framework.
+This Repo is my first React project
+From there on I fell in love with the framework and lever looked back
+
+use "npm i" to install all the modules/dependencies
+
+use "npm start" to run the local server
